@@ -1,0 +1,26 @@
+/* 6th Commit: Initial CSS */
+body {
+font-size: 12pt;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: black;
+line-height: 14pt;
+}
+h1 {
+font-weight: bold;
+line-height: 20pt;
+}
+.bg-1 {
+  background-image: url(img/colorBanner.png);
+  margin-bottom: 0;
+  width: 350px;
+  height: 350px;
+}
+.bg-2 {
+  background: #2d2d30;
+  color: #bdbdbd;
+  padding: 80px 120px;
+}
+.bg-3 {
+  background-color: #f6f6f6;
+  margin-bottom: 0;
+}
